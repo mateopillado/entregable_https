@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|c:\\users\\mateo\\desktop\\prog ii\\entregable_https\\act2_4\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|solutionrelative:act2_4\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|solutionrelative:act2_4\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|solutionrelative:act2_4\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\data\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|solutionrelative:act2_4\\data\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933BAF81-D753-4624-B890-2FBAC50FC571}|act2_4\\act2_4.csproj|solutionrelative:act2_4\\utils\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "act2_4\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "act2_4\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:01:30.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Utils\\DataHelper.cs",
+              "RelativeDocumentMoniker": "act2_4\\Utils\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Utils\\DataHelper.cs",
+              "RelativeToolTip": "act2_4\\Utils\\DataHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:44:06.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Domain\\Producto.cs",
+              "RelativeDocumentMoniker": "act2_4\\Domain\\Producto.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Domain\\Producto.cs",
+              "RelativeToolTip": "act2_4\\Domain\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:40:42.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Data\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "act2_4\\Data\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Data\\ProductoRepository.cs",
+              "RelativeToolTip": "act2_4\\Data\\ProductoRepository.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAUwGwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:35:35.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Service\\ProductoService.cs",
+              "RelativeDocumentMoniker": "act2_4\\Service\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Mateo\\Desktop\\Prog II\\entregable_https\\act2_4\\Service\\ProductoService.cs",
+              "RelativeToolTip": "act2_4\\Service\\ProductoService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:35:14.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
